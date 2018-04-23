@@ -1,7 +1,7 @@
-package com.test.sjpa.oracle;
+package com.test.sjpa.postegres;
 
-import com.test.sjpa.oracle.dao.CustomerRepository;
-import com.test.sjpa.oracle.model.Customer;
+import com.test.sjpa.postegres.dao.CustomerRepository;
+import com.test.sjpa.postegres.model.Customer;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
