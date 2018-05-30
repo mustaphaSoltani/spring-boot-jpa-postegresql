@@ -1,11 +1,14 @@
 # spring-boot-jpa-postegresql
 
-Dans ce projet, j'ai créé un exemple de pool de connexions par Spring Boot , Spring Data JPA , PostegreSQL et HikariCP.  
-Anisi, j'ai créé une interface et étendu les données Spring CrudRepository qui sont chargées par Hibernate automatiquement à partir du fichier import.sql.
+## Objectif:
+
+Création d'un exemple de pool de connexions par Spring Boot , Spring Data JPA , PostegreSQL et HikariCP.  
+
+Création d'une interface et étendu les données Spring CrudRepository qui sont chargées par Hibernate automatiquement à partir du fichier import.sql.
 
 ---
 
-## Les outils utilisés dans ce projet sont:
+## Les outils utilisés:
 
 * *__Spring Boot 1.5.1.RELEASE__* :  permet de créer facilement des applications Spring
 
